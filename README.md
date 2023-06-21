@@ -9,6 +9,7 @@ This script provides a convenient one-click solution to fix sound-related issues
 - Automatically generates the necessary script to start PulseAudio with the correct parameters.
 
 ### Usage
+0. First make sure your Nethunter or Kex/VncServer is not running.
 1. Clone the repository or download the [`soundfix.sh`](./soundfix.sh) script.
 2. Open the terminal and navigate to the directory where you have [`soundfix.sh`](./soundfix.sh).
 3. Run the following command to make the script executable:
