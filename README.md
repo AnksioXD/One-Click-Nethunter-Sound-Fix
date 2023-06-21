@@ -1,4 +1,4 @@
-## One-Click SoundFix Script
+## One-Click Nethunter Sound-Fix
 
 ### Overview
 This script provides a convenient one-click solution to fix sound-related issues on Linux Nethunter and other distributions that use PulseAudio. It automates the installation and configuration of PulseAudio, ensuring a seamless audio experience.
