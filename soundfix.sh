@@ -6,7 +6,7 @@ if ! type pulseaudio >/dev/null 2>&1; then
     clear
     echo -e "\e[1;31mPulseAudio not found\e[0m"
     echo -e "\e[1;32mInstalling PulseAudio\e[0m"
-    pkg install pulseaudio
+    pkg install pulseaudio -y
 else
     clear
     echo -e "\e[1;33mFound PulseAudio\e[0m"
