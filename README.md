@@ -10,7 +10,7 @@ This script provides a convenient one-click solution to fix sound-related issues
 
 ### Usage
 0. First make sure your Nethunter or Kex/VncServer is not running.
-1. Clone the repository or download the [`soundfix.sh`](./soundfix.sh) script.
+1. Clone the repository of download the [`soundfix.sh`](./soundfix.sh) script or `wget -o soundfix.sh https://raw.githubusercontent.com/AnksioXD/One-Click-Nethunter-Sound-Fix/main/soundfix.sh`.
 2. Open the terminal and navigate to the directory where you have [`soundfix.sh`](./soundfix.sh).
 3. Run the following command to make the script executable:
    ```bash
